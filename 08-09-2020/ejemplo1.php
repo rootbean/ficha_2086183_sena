@@ -34,16 +34,4 @@ $hipotenusa2 = hallarHipotenusa2(2, 4);
 
 echo 'El valor de la hipotenusa 2 es: '.$hipotenusa2;
 
-
-
-
-
-
-
-
-
-
-
-
-
 ?>
